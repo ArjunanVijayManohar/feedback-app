@@ -1,3 +1,3 @@
 # Feedback App
 
-React project
+React CRUD app with fake backend
